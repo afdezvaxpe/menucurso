@@ -1,1 +1,7 @@
-esto es una tortilla
+los ingredientes de la tortilla
+
+patatas
+aceite
+cebolla
+huevos
+sal
