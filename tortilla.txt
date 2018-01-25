@@ -4,4 +4,4 @@ patatas
 aceite
 cebolla
 huevos
-sal
+poca sal
