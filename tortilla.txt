@@ -5,3 +5,5 @@ aceite
 cebolla
 huevos
 poca sal
+esto sale a 3€
+incluye 2€ de IVA
